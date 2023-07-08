@@ -1,0 +1,506 @@
+# ------------------------------------ #
+@WATER
+# ------------------------------------ #
+
+flat/FWATER1
+flat/FWATER2
+flat/FWATER3
+flat/FWATER4
+flat/BLOOD1
+flat/BLOOD2
+flat/BLOOD3
+
+
+
+
+
+# ------------------------------------ #
+@RASTERIZED_WITH_LIGHT
+# ------------------------------------ #
+
+gfx/APBXA0 6eff69
+gfx/APBXB0 eeff96
+gfx/APBXC0 eeff96
+gfx/APBXD0 eeff96
+gfx/APBXE0 eeff96
+gfx/APLSA0 88fa84
+gfx/APLSB0 88fa84
+
+# imp projectile
+gfx/BAL1A0 ff6f00
+gfx/BAL1B0 ff6f00
+gfx/BAL1C0 ffcd73
+gfx/BAL1D0 ffcd73
+gfx/BAL1E0 b07b53
+
+# cacodemon projectile
+gfx/BAL2A0 b65cff
+gfx/BAL2B0 b65cff
+gfx/BAL2C0 ffe2ad
+gfx/BAL2D0 e3b788
+gfx/BAL2E0 877958
+
+gfx/BAL7A1A5 96ffa3
+gfx/BAL7A2A8 96ffa3
+gfx/BAL7A3A7 96ffa3
+gfx/BAL7A4A6 96ffa3
+gfx/BAL7B1B5 96ffa3
+gfx/BAL7B2B8 96ffa3
+gfx/BAL7B3B7 96ffa3
+gfx/BAL7B4B6 96ffa3
+gfx/BAL7C0 96ffa3
+gfx/BAL7D0 96ffa3
+gfx/BAL7E0 5c9e64
+
+# toxic barrel explosion
+gfx/BEXPE0 947947
+gfx/BEXPC0 ffd587
+gfx/BEXPD0 debd81
+
+gfx/BFE1A0 66ff33 3.0
+gfx/BFE1B0 66ff33 3.0
+gfx/BFE1C0 8eff69 3.0
+gfx/BFE1D0 66ff33 3.0
+gfx/BFE1E0 66ff33 3.0
+gfx/BFE1F0 66ff33 3.0
+gfx/BFE2A0 66ff33 3.0
+gfx/BFE2B0 66ff33 3.0
+gfx/BFE2C0 66ff33 3.0
+gfx/BFE2D0 66ff33 3.0
+gfx/BFS1A0 66ff33 3.0
+gfx/BFS1B0 66ff33 3.0
+
+# icon of sin cubes
+gfx/BOSFA0 b81b00
+gfx/BOSFD0 b81b00
+gfx/BOSFB0 b81b00
+gfx/BOSFC0 b81b00
+
+# baron attack
+gfx/BOSSG8 48bd6b
+gfx/BOSSE1 48bd6b
+gfx/BOSSE2 48bd6b
+gfx/BOSSE3 48bd6b
+gfx/BOSSE4 48bd6b
+gfx/BOSSE5 48bd6b
+gfx/BOSSE6 48bd6b
+gfx/BOSSE7 48bd6b
+gfx/BOSSE8 48bd6b
+gfx/BOSSF1 57ff6a
+gfx/BOSSF2 57ff6a
+gfx/BOSSF3 57ff6a
+gfx/BOSSF4 57ff6a
+gfx/BOSSF5 57ff6a
+gfx/BOSSF6 57ff6a
+gfx/BOSSF7 57ff6a
+gfx/BOSSF8 57ff6a
+gfx/BOSSG1 48bd6b
+gfx/BOSSG2 48bd6b
+gfx/BOSSG3 48bd6b
+gfx/BOSSG4 48bd6b
+gfx/BOSSG5 48bd6b
+gfx/BOSSG6 48bd6b
+gfx/BOSSG7 48bd6b
+
+# candles
+gfx/CANDA0 cc9423 0.15
+gfx/CBRAA0 cc9423 0.2
+# electric torch
+gfx/COLUA0 ffd580 0.3
+
+# cyberdemon attack
+gfx/CYBRF1 cf3415
+gfx/CYBRF2 cf3415
+gfx/CYBRF3 cf3415
+gfx/CYBRF4 cf3415
+gfx/CYBRF5 cf3415
+gfx/CYBRF6 cf3415
+gfx/CYBRF7 cf3415
+gfx/CYBRF8 cf3415
+# cyberdemon explosion
+gfx/CYBRK0 ffbc6b
+gfx/CYBRL0 ff863b
+gfx/CYBRM0 876439
+
+# fire barrel
+gfx/FCANA0 ffc261
+gfx/FCANB0 ffc261
+gfx/FCANC0 ffc261
+
+# other plasma
+gfx/IFOGA0 4e3bff
+gfx/IFOGB0 4e3bff
+gfx/IFOGC0 4e3bff
+gfx/IFOGD0 4e3bff
+gfx/IFOGE0 4e3bff
+
+# mancubus projectile
+gfx/MANFB8B2 ffc987
+gfx/MANFA1 ffc987
+gfx/MANFA5 ffc987
+gfx/MANFA6A4 ffc987
+gfx/MANFA7A3 ffc987
+gfx/MANFA8A2 ffc987
+gfx/MANFB1 ffc987
+gfx/MANFB5 ffc987
+gfx/MANFB6B4 ffc987
+gfx/MANFB7B3 ffc987
+
+# rocket
+gfx/MISLA1 fcc55d
+gfx/MISLA5 fcc55d
+gfx/MISLA6A4 fcc55d
+gfx/MISLA7A3 fcc55d
+gfx/MISLA8A2 fcc55d
+# rocket explosion
+gfx/MISLB0 ffdcab
+gfx/MISLC0 ffc869
+gfx/MISLD0 3b1a00
+
+# player
+gfx/PLAYF5 ffe4a6
+gfx/PLAYF1 ffe4a6
+gfx/PLAYF2F8 ffe4a6
+gfx/PLAYF3F7 ffe4a6
+gfx/PLAYF4F6 ffe4a6
+
+# plasma
+gfx/PLSEA0 3f21ff 0.8
+gfx/PLSEB0 3f21ff 0.8
+gfx/PLSEC0 3f21ff 0.8
+gfx/PLSED0 3f21ff 0.8
+gfx/PLSEE0 342394 0.8
+gfx/PLSSA0 342394 0.8
+gfx/PLSSB0 342394 0.8
+
+# grunt
+gfx/POSSF2F8 ffe4a6
+gfx/POSSF3F7 ffe4a6
+gfx/POSSF4F6 ffe4a6
+gfx/POSSF5 ffe4a6
+gfx/POSSF1 ffe4a6
+
+# lost soul, attack
+gfx/SKULC1 9c2d21
+gfx/SKULC5 9c2d21
+gfx/SKULC6C4 9c2d21
+gfx/SKULC7C3 9c2d21
+gfx/SKULC8C2 9c2d21
+gfx/SKULD1 9c2d21
+gfx/SKULD5 9c2d21
+gfx/SKULD6D4 9c2d21
+gfx/SKULD7D3 9c2d21
+gfx/SKULD8D2 9c2d21
+# lost soul, death
+gfx/SKULI0 c48949
+gfx/SKULJ0 804f30
+gfx/SKULK0 000000
+
+# torches
+gfx/SMBTA0 4f84ff
+gfx/SMBTB0 4f84ff
+gfx/SMBTC0 4f84ff
+gfx/SMBTD0 4f84ff
+gfx/SMGTA0 52ff83
+gfx/SMGTB0 52ff83
+gfx/SMGTC0 52ff83
+gfx/SMGTD0 52ff83
+gfx/SMRTA0 ffaf47
+gfx/SMRTB0 ffaf47
+gfx/SMRTC0 ffaf47
+gfx/SMRTD0 ffaf47
+
+# spidermind
+gfx/SPIDH1 ffcf66
+gfx/SPIDH2H8 ffcf66
+gfx/SPIDH3H7 ffcf66
+gfx/SPIDH4H6 ffcf66
+gfx/SPIDH5 ffcf66
+gfx/SPIDM0 ffd6a3
+gfx/SPIDN0 ffca87
+gfx/SPIDO0 ffb252
+gfx/SPIDP0 a33c00
+gfx/SPIDQ0 7d3600
+gfx/SPIDR0 470e00
+
+# shotgunner
+gfx/SPOSF4F6 ffe4a6
+gfx/SPOSF5 ffe4a6
+gfx/SPOSF1 ffe4a6
+gfx/SPOSF2F8 ffe4a6
+gfx/SPOSF3F7 ffe4a6
+
+# torch blue
+gfx/TBLUA0 16309c 0.8
+gfx/TBLUB0 16309c 0.8
+gfx/TBLUC0 16309c 0.8
+gfx/TBLUD0 16309c 0.8
+
+gfx/TLMPA0 16309c 0.8
+gfx/TLMPB0 16309c 0.8
+gfx/TLMPC0 16309c 0.8
+gfx/TLMPD0 16309c 0.8
+
+gfx/TLP2A0 16309c 0.8
+gfx/TLP2B0 16309c 0.8
+gfx/TLP2C0 16309c 0.8
+gfx/TLP2D0 16309c 0.8
+
+#teleport
+gfx/TFOGA0 99ff85
+gfx/TFOGB0 99ff85
+gfx/TFOGC0 99ff85
+gfx/TFOGD0 99ff85
+gfx/TFOGE0 62a656
+gfx/TFOGF0 4e8544
+gfx/TFOGG0 42703a
+gfx/TFOGH0 2a4724
+gfx/TFOGI0 111c0f
+gfx/TFOGJ0 060a06
+
+# torch green
+gfx/TGRNA0 0e8730 0.8
+gfx/TGRNB0 0e8730 0.8
+gfx/TGRNC0 0e8730 0.8
+gfx/TGRND0 0e8730 0.8
+
+# torch red
+gfx/TREDA0 9c2c0b 0.8
+gfx/TREDB0 9c2c0b 0.8
+gfx/TREDC0 9c2c0b 0.8
+gfx/TREDD0 9c2c0b 0.8
+
+
+
+
+
+# ------------------------------------ #
+@VERTICAL_CONELIGHT
+# ------------------------------------ #
+
+# toxic barrel
+gfx/BAR1A0 63ff47 10
+gfx/BAR1B0 63ff47 10
+gfx/BEXPA0 63ff47 10
+
+# ------------------------------------ #
+@EMISSIVE
+# ------------------------------------ #
+
+flat/LAVA1 8
+flat/LAVA2 8
+flat/LAVA3 8
+flat/LAVA4 8
+flat/NUKAGE1 4
+flat/NUKAGE2 4
+flat/NUKAGE3 4
+flat/GRNLITE1 6
+flat/RROCK01 6
+flat/RROCK02 6
+
+# ------------------------------------ #
+@EMISSIVE_WITHOUT_INDIRECT_ILLUMINATION
+# ------------------------------------ #
+
+flat/GATE1 0.1
+flat/GATE2 0.1
+flat/GATE3 0.1
+flat/GATE4 0.1
+
+# pickups
+gfx/ARM1A0 0.2
+gfx/ARM2A0 0.2
+gfx/BON1D0 0.2
+gfx/BON2D0 0.2
+gfx/CELLA0 0.2
+gfx/CELPA0 0.2
+gfx/PINSA0 0.2
+gfx/PINVA0 0.2
+gfx/PMAPA0 0.2
+gfx/PMAPB0 0.2
+gfx/PMAPC0 0.2
+gfx/PMAPD0 0.2
+gfx/PVISA0 0.2
+gfx/SOULA0 0.2
+gfx/BKEYB0 0.5
+gfx/RKEYB0 0.5
+gfx/YKEYB0 0.5
+gfx/BSKUB0 0.5
+gfx/RSKUB0 0.5
+gfx/YSKUB0 0.5
+
+# first-person weapons
+gfx/BFGFA0 0.5
+gfx/BFGFB0 0.5
+gfx/CHGFA0 0.5
+gfx/CHGFB0 0.5
+gfx/MISFA0 0.5
+gfx/MISFB0 0.5
+gfx/MISFC0 0.5
+gfx/PISFA0 0.5
+gfx/PLSFA0 0.5
+gfx/PLSFB0 0.5
+gfx/SHTFA0 0.5
+gfx/SHTFB0 0.5
+
+# lost soul, no attack
+gfx/SKULK0 0.1
+gfx/SKULA1 0.1
+gfx/SKULA5 0.1
+gfx/SKULA6A4 0.1
+gfx/SKULA7A3 0.1
+gfx/SKULA8A2 0.1
+gfx/SKULB1 0.1
+gfx/SKULB5 0.1
+gfx/SKULB6B4 0.1
+gfx/SKULB7B3 0.1
+gfx/SKULB8B2 0.1
+gfx/SKULE1 0.1
+gfx/SKULE5 0.1
+gfx/SKULE6E4 0.1
+gfx/SKULE7E3 0.1
+gfx/SKULE8E2 0.1
+gfx/SKULF0 0.1
+gfx/SKULG0 0.1
+gfx/SKULH0 0.1
+
+gfx/CEYEA0 0.5
+gfx/CEYEB0 0.5
+gfx/CEYEC0 0.5
+gfx/EXIT1 0.1
+gfx/FLAMP 0.1
+
+gfx/PUFFA0 0.8
+gfx/PUFFB0 0.8
+
+# switches
+gfx/SW1S0 0.1
+gfx/SW2S1 0.1
+gfx/SW4S1 0.1
+gfx/SW2_2 0.1
+gfx/SW2_4 0.1
+gfx/SW2_8 0.1
+gfx/WARNA0 0.1
+
+# screens
+gfx/TSCRN8 0.1
+gfx/TSCRN2 0.1
+gfx/TSCRN3 0.1
+gfx/TSCRN4 0.1
+gfx/TSCRN5 0.1
+gfx/TSCRN6 0.1
+
+# skull gates
+gfx/W108_2 0.2
+gfx/W108_3 0.2
+gfx/W108_4 0.2
+
+# fireblue
+gfx/W65B_1 0.3
+gfx/W65B_2 0.3
+gfx/FIREBLU1 0.3
+gfx/FIREBLU2 0.3
+
+# fire wall
+gfx/FIRELAV2 0.3
+gfx/FIRELAV3 0.3
+gfx/FIRELAVA 0.3
+gfx/FIREMAG1 0.3
+gfx/FIREMAG2 0.3
+gfx/FIREMAG3 0.3
+gfx/FIREWALA 0.3
+gfx/FIREWALB 0.3
+gfx/FIREWALL 0.3
+gfx/REDWALL1 1.0
+
+gfx/LITE3 0.5
+gfx/LITE4 0.5
+gfx/LITE5 0.5
+gfx/LITEBLU1 0.1
+gfx/LITEBLU2 0.1
+gfx/LITEBLU3 0.03
+gfx/LITEBLU4 0.5
+gfx/LITERED 0.5
+
+gfx/EXITSIGN 0.5
+
+# commented, there are emission textures for them
+#gfx/DOORBLU 0.5
+#gfx/DOORRED 0.5
+#gfx/DOORYEL 0.5
+gfx/DOORBLU2 0.5
+gfx/DOORRED2 0.5
+gfx/DOORYEL2 0.5
+
+
+
+
+
+# ------------------------------------ #
+@MONOCHROME_FOR_COLORMAPS
+# ------------------------------------ #
+
+gfx/STCFN121
+gfx/STCFN033
+gfx/STCFN034
+gfx/STCFN035
+gfx/STCFN036
+gfx/STCFN037
+gfx/STCFN038
+gfx/STCFN039
+gfx/STCFN040
+gfx/STCFN041
+gfx/STCFN042
+gfx/STCFN043
+gfx/STCFN044
+gfx/STCFN045
+gfx/STCFN046
+gfx/STCFN047
+gfx/STCFN048
+gfx/STCFN049
+gfx/STCFN050
+gfx/STCFN051
+gfx/STCFN052
+gfx/STCFN053
+gfx/STCFN054
+gfx/STCFN055
+gfx/STCFN056
+gfx/STCFN057
+gfx/STCFN058
+gfx/STCFN059
+gfx/STCFN060
+gfx/STCFN061
+gfx/STCFN062
+gfx/STCFN063
+gfx/STCFN064
+gfx/STCFN065
+gfx/STCFN066
+gfx/STCFN067
+gfx/STCFN068
+gfx/STCFN069
+gfx/STCFN070
+gfx/STCFN071
+gfx/STCFN072
+gfx/STCFN073
+gfx/STCFN074
+gfx/STCFN075
+gfx/STCFN076
+gfx/STCFN077
+gfx/STCFN078
+gfx/STCFN079
+gfx/STCFN080
+gfx/STCFN081
+gfx/STCFN082
+gfx/STCFN083
+gfx/STCFN084
+gfx/STCFN085
+gfx/STCFN086
+gfx/STCFN087
+gfx/STCFN088
+gfx/STCFN089
+gfx/STCFN090
+gfx/STCFN091
+gfx/STCFN092
+gfx/STCFN093
+gfx/STCFN094
+gfx/STCFN095
